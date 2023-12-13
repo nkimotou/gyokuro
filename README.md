@@ -9,7 +9,6 @@ Welcome to the Assembly and COBOL Primer repository! This project aims to provid
 1. [Introduction to Assembly Language](#introduction-to-assembly-language)
    - What is Assembly Language?
    - Why Learn Assembly?
-   - Setting Up the Development Environment
 
 2. [COBOL Basics](#cobol-basics)
    - Overview of COBOL
@@ -40,10 +39,6 @@ Assembly language is a human-readable representation of the machine code instruc
 - Write more efficient and optimized code.
 - Develop a foundation for reverse engineering and low-level programming.
 
-### Setting Up the Development Environment
-
-Follow the instructions in the [Development Environment Setup](dev-environment-setup.md) guide to configure your system for assembly language programming.
-
 ## COBOL Basics
 
 COBOL (Common Business-Oriented Language) is a high-level programming language primarily used for business, finance, and administrative systems. This section introduces you to the fundamental concepts and syntax of COBOL.
@@ -59,10 +54,6 @@ Explore the basic building blocks of COBOL programs, including divisions, sectio
 ### Data Types and Structures in COBOL
 
 Understand how COBOL handles data, including different data types, record structures, and file handling. Dive into the specifics of COBOL data manipulation.
-
-## Getting Started
-
-In this section, you'll get hands-on experience writing your first assembly program and COBOL application. Follow step-by-step guides to build and run simple programs.
 
 ### Writing Your First Assembly Program
 
@@ -91,10 +82,6 @@ Master the art of file handling in COBOL. Understand sequential and random acces
 ### Debugging Techniques
 
 Discover effective debugging strategies for both assembly language and COBOL programs. Identify and fix common programming errors.
-
-## Contributing
-
-We welcome contributions to make this primer more comprehensive and beginner-friendly. If you have suggestions, corrections, or additional content to add, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
