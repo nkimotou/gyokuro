@@ -1,5 +1,10 @@
 # Welcome to the Assembly, COBOL, and FORTRAN repository! This project aims to provide a comprehensive introduction to assembly, COBOL, and FORTRAN programming. 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTliZHU5bHl3dW03NWFldGxzd2dzb2NyM2I0endqMzNoZmJlbDU3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s38w1LiusWWGv5r6GM/giphy.gif"/>
+</div>
+
+
 ## COBOL (Common Business-Oriented Language), Assembly language, and FORTRAN (FORmula TRANslation) are all programming languages, each with its own characteristics and purposes. Despite their differences, they have some commonalities:
 
 ### Low-Level Operations: 
