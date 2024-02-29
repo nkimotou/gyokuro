@@ -5,7 +5,7 @@
 </div>
 
 
-## COBOL (Common Business-Oriented Language), Assembly language, and FORTRAN (FORmula TRANslation) are all programming languages, each with its own characteristics and purposes. Despite their differences, they have some commonalities:
+### COBOL (Common Business-Oriented Language), Assembly language, and FORTRAN (FORmula TRANslation) are all programming languages, each with its own characteristics and purposes. Despite their differences, they have some commonalities:
 
 ### Low-Level Operations: 
 Both Assembly language and parts of COBOL (especially when dealing with low-level operations) involve close interaction with the computer's hardware and memory. They allow for precise control over the machine's resources.
