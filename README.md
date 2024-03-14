@@ -43,6 +43,8 @@ Certain specialized fields, such as embedded systems programming, real-time syst
 ### Learning Fundamentals: 
 COBOL, Assembly language, and FORTRAN often require a more explicit understanding of programming concepts such as data types, control flow, and memory management. Mastering these fundamentals in these languages can provide a strong foundation for learning other programming languages more easily.
 
-## License
-
-This primer is licensed under the [MIT License](LICENSE.md). Feel free to use and modify the content for your learning purposes.
+<div id="footer" align="center">
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" width = "400"/>
+  <img src="https://www.svgrepo.com/show/339080/cobol-language.svg" width = "400"/>
+   <img src="https://www.svgrepo.com/show/373607/fortran.svg" width = "400"/>
+</div>
