@@ -1,4 +1,4 @@
-## Welcome to the Assembly, COBOL, and FORTRAN repository! This project aims to provide a comprehensive introduction to assembly, COBOL, and FORTRAN programming. 
+## Welcome to the Assembly, COBOL, and FORTRAN repository! 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhtemFxaGdzc3Y5aDdsMmVpenRpamo0NDYybXFnMGNneWRha2huZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lMAzNZfYAiyR0s/giphy.gif" width = "300"/>
