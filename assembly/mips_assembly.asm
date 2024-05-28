@@ -10,7 +10,7 @@ main:
     li $t0, 5
     li $t1, 10
 
-    # Perform addition
+    # Add values
     add $t2, $t0, $t1
 
     # Store result
